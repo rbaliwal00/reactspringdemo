@@ -1,3 +1,0 @@
-app:
-    datasource:
-        jdbc-url: jdbc:postgresql://rbaliwal00.postgres.database.azure.com:5432/postgres?user=rbaliwal00&password=Sug@r1404&sslmode=require
